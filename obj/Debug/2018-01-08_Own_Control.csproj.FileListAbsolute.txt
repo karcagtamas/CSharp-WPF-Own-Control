@@ -1,0 +1,14 @@
+D:\Karcag_Tamás_5_13A\2018-01-08_Own_Control\bin\Debug\2018-01-08_Own_Control.exe.config
+D:\Karcag_Tamás_5_13A\2018-01-08_Own_Control\bin\Debug\2018-01-08_Own_Control.exe
+D:\Karcag_Tamás_5_13A\2018-01-08_Own_Control\bin\Debug\2018-01-08_Own_Control.pdb
+D:\Karcag_Tamás_5_13A\2018-01-08_Own_Control\obj\Debug\2018-01-08_Own_Control.csprojResolveAssemblyReference.cache
+D:\Karcag_Tamás_5_13A\2018-01-08_Own_Control\obj\Debug\MainWindow.g.cs
+D:\Karcag_Tamás_5_13A\2018-01-08_Own_Control\obj\Debug\App.g.cs
+D:\Karcag_Tamás_5_13A\2018-01-08_Own_Control\obj\Debug\2018-01-08_Own_Control_MarkupCompile.cache
+D:\Karcag_Tamás_5_13A\2018-01-08_Own_Control\obj\Debug\2018-01-08_Own_Control_MarkupCompile.lref
+D:\Karcag_Tamás_5_13A\2018-01-08_Own_Control\obj\Debug\MainWindow.baml
+D:\Karcag_Tamás_5_13A\2018-01-08_Own_Control\obj\Debug\2018-01-08_Own_Control.g.resources
+D:\Karcag_Tamás_5_13A\2018-01-08_Own_Control\obj\Debug\_2018_01_08_Own_Control.Properties.Resources.resources
+D:\Karcag_Tamás_5_13A\2018-01-08_Own_Control\obj\Debug\2018-01-08_Own_Control.csproj.GenerateResource.Cache
+D:\Karcag_Tamás_5_13A\2018-01-08_Own_Control\obj\Debug\2018-01-08_Own_Control.exe
+D:\Karcag_Tamás_5_13A\2018-01-08_Own_Control\obj\Debug\2018-01-08_Own_Control.pdb
