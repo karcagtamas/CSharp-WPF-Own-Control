@@ -23,20 +23,12 @@ namespace _2018_01_08_Own_Control
         public MainWindow()
         {
             InitializeComponent();
+        
         }
 
-        double ertek = 0;
-        private void TextBox_PreviewTextInput(object sender, TextCompositionEventArgs e)
+        private void Button_Click(object sender, RoutedEventArgs e)
         {
-            try
-            {
-                string leendoSzoveg = txt.Text.Substring(0, txt.SelectionStart) + e.Text + txt.Text.Substring(txt.SelectionStart + txt.SelectionLength);
-                ertek = double.Parse(leendoSzoveg);
-            }
-            catch (Exception)
-            {
-                e.Handled = true;
-            }
+            MessageBox.Show(my.asDouble.ToString());
         }
     }
 }

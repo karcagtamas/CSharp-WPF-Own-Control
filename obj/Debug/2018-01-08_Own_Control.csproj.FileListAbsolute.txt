@@ -12,3 +12,4 @@ D:\Karcag_Tamás_5_13A\2018-01-08_Own_Control\obj\Debug\_2018_01_08_Own_Control.
 D:\Karcag_Tamás_5_13A\2018-01-08_Own_Control\obj\Debug\2018-01-08_Own_Control.csproj.GenerateResource.Cache
 D:\Karcag_Tamás_5_13A\2018-01-08_Own_Control\obj\Debug\2018-01-08_Own_Control.exe
 D:\Karcag_Tamás_5_13A\2018-01-08_Own_Control\obj\Debug\2018-01-08_Own_Control.pdb
+D:\Karcag_Tamás_5_13A\2018-01-08_Own_Control\obj\Debug\GeneratedInternalTypeHelper.g.cs
