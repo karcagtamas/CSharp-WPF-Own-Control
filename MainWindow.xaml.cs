@@ -25,10 +25,18 @@ namespace _2018_01_08_Own_Control
             InitializeComponent();
         }
 
+        double ertek = 0;
         private void TextBox_PreviewTextInput(object sender, TextCompositionEventArgs e)
         {
-            this.Title = e.Text;
-            e.Handled = true;
+            try
+            {
+                string leendoSzoveg = txt.Text.Substring(0, txt.SelectionStart) + e.Text + txt.Text.Substring(txt.SelectionStart + txt.SelectionLength);
+                ertek = double.Parse(leendoSzoveg);
+            }
+            catch (Exception)
+            {
+                e.Handled = true;
+            }
         }
     }
 }
